@@ -20,7 +20,6 @@ https://templatemo.com/tm-588-ebook-landing
   --p-color:                      #717275;
   --link-hover-color:             #E76F51;
 
-  --body-font-family:             'Unbounded', sans-serif;
 
   --h1-font-size:                 42px;
   --h2-font-size:                 36px;
@@ -45,7 +44,7 @@ https://templatemo.com/tm-588-ebook-landing
 
 body {
   background-color: var(--white-color);
-  font-family: var(--body-font-family); 
+  font-family: 'Comfortaa', sans-serif;
 }
 
 
@@ -603,7 +602,7 @@ strong {
 .hero-section .row {
   position: relative;
   z-index: 22;
-  top: 100px;
+ /*  top: 100px; */
 }
 
 .hero-image {
